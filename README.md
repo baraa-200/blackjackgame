@@ -6,7 +6,7 @@ You can start a game, draw new cards, and try to reach 21 without going over!
 
  Preview
 
-[Screenshot](Screenshot 2025-05-13 123808.png)
+[Screenshot](https://github.com/baraa-200/blackjackgame/blob/main/Screenshot%202025-05-13%20123808.png)
 
 
 
